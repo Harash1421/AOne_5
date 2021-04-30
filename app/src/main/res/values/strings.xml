@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AOne_5</string>
+    <string name="Enable_Receive_SMS">Enable Receive SMS</string>
+    <string name="Send_A_Message_With_The_Letter_R"><b>Send A Message With A Letter (R)</b></string>
+</resources>
